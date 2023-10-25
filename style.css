@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-align : center;
+    color: green;
+}
+
+.container{
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+h1{
+    font-size: 6rem;
+    margin-bottom: 20px;
+}
